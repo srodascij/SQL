@@ -1,2 +1,0 @@
-INSERT INTO TTipoMovimientos
-SELECT 'IMPOREMI', 1,0,'IM',1
